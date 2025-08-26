@@ -17,5 +17,5 @@ The predictive analysis notebook focuses on analyzing student exam performance a
 OUTPUT:
 <img width="768" height="444" alt="Image" src="https://github.com/user-attachments/assets/d95ea9a8-db9b-43da-bb54-ad5b4f9985e3" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4fb7dcbc-6ef8-4396-9b53-33fe77a9089e" />
+<img width="768" height="442" alt="Image" src="https://github.com/user-attachments/assets/05d0dc06-467f-4ad0-8e06-797f267e0bc6" />
 
